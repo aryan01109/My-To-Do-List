@@ -36,3 +36,14 @@ All analytics are calculated automatically from the database using task completi
 
 ## 📂 Project Structure
 
+│
+├── index.html
+├── index.css
+├── index.js
+│
+├── Backend/
+│ ├── server.js
+│ ├── models/
+│ │ └── Task.js
+│
+└── README.md
